@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# My personal characteristics
+1. Enthusiastic
+2. *Passionate*
+3.  **Focus**
+4.  *Have **strong problem-solving** skills*
